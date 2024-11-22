@@ -32,8 +32,7 @@ namespace HW13.Repository
 
         public BarrowedBook? GetUserBarrowedBId(int userid, int bookid)
         {
-            return HW13DbContext.BarrowedBooks
-                .AsNoTracking()
+            return HW13DbContext.BarrowedBooks              
                 .SingleOrDefault(b => b.BookId.Equals(bookid) && b.UserId.Equals(userid));
         }
 
@@ -52,6 +51,7 @@ namespace HW13.Repository
         public bool Return(BarrowedBook barrowedBook)
         {
             HW13DbContext.BarrowedBooks.Remove(barrowedBook);
+            barrowedBook.Book.Status = Enum.StatusEnum.NotBarrowed;
             HW13DbContext.SaveChanges();
             return true;
         }

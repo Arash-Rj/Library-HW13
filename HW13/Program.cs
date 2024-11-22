@@ -85,7 +85,11 @@ void Register()
     ResultMessage(res);
     if (res.IsDone == true)
     {
-        Console.WriteLine("1.Advance to menu     2.Peace out");
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine("1.Advance to menu");
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.WriteLine("2.Peace out");
+        Console.ForegroundColor = ConsoleColor.Gray;
         int res1 = 0;
         try
         { res1 = Int32.Parse(Console.ReadLine()); }
@@ -272,6 +276,6 @@ void UsersList()
 {
     var users = userService.GetAllUsers();
     Console.WriteLine("**** Users ****");
-    users.ForEach(u => Console.WriteLine(u.ToString()));
+    users.Where(u => u.Role != RoleEnum.Librarian).ToList().ForEach(u => Console.WriteLine(u.ToString()));
     Console.WriteLine("****************");
 }

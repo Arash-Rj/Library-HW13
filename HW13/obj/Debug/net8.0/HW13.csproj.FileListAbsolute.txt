@@ -150,3 +150,4 @@ C:\Users\Mr. X\source\repos\HW13\HW13\obj\Debug\net8.0\refint\HW13.dll
 C:\Users\Mr. X\source\repos\HW13\HW13\obj\Debug\net8.0\HW13.pdb
 C:\Users\Mr. X\source\repos\HW13\HW13\obj\Debug\net8.0\HW13.genruntimeconfig.cache
 C:\Users\Mr. X\source\repos\HW13\HW13\obj\Debug\net8.0\ref\HW13.dll
+C:\Users\Mr. X\source\repos\HW13\HW13\obj\Debug\net8.0\HW13.sourcelink.json

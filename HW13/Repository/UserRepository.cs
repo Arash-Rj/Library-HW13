@@ -46,7 +46,8 @@ namespace HW13.Repository
 
         public bool IsAdmin(int userid)
         {
-            return HW13DbContext.Users.Where(u => u.Id.Equals(userid)).Any(u => u.Role==RoleEnum.Librarian);
+            return HW13DbContext.Users.AsNoTracking().Where(u => u.Id.Equals(userid)).Any(u => u.Role == RoleEnum.Librarian);
+
         }
 
         public bool IsUserIdValid(int userid)
@@ -57,7 +58,7 @@ namespace HW13.Repository
         public bool UpdateUserDate(int userid, DateTime EndDate)
         {
            var user = HW13DbContext.Users.FirstOrDefault(u => u.Id == userid);
-            if(user is null || user.IsActive==true)
+            if(user is null)
             {
                 return false;
             }

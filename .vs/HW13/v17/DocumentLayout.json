@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\HW13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\configuration\\barrowedbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\configuration\\barrowedbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241121193641_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW13\\Migrations\\20241121193641_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122114727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW13\\Migrations\\20241122114727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\database\\hw13dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\database\\hw13dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\barrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\barrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +35,48 @@
       "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\service\\onlineuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\barrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\barrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\database\\hw13dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\database\\hw13dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\configuration\\barrowedbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\configuration\\barrowedbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122110922_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW13\\Migrations\\20241122110922_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\enum\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\contract\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\contract\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|c:\\users\\mr. x\\source\\repos\\hw13\\hw13\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1442C6-8661-4FDD-A3D9-B153BEA21D69}|HW13\\HW13.csproj|solutionrelative:hw13\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,11 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "RoleEnum.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Enum\\RoleEnum.cs",
               "RelativeDocumentMoniker": "HW13\\Enum\\RoleEnum.cs",
@@ -117,45 +121,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20241121193641_init.cs",
-              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241121193641_init.cs",
-              "RelativeDocumentMoniker": "HW13\\Migrations\\20241121193641_init.cs",
-              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241121193641_init.cs",
-              "RelativeToolTip": "HW13\\Migrations\\20241121193641_init.cs",
+              "Title": "20241122114727_init.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122114727_init.cs",
+              "RelativeDocumentMoniker": "HW13\\Migrations\\20241122114727_init.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122114727_init.cs",
+              "RelativeToolTip": "HW13\\Migrations\\20241122114727_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:36:41.761Z",
+              "WhenOpened": "2024-11-22T11:47:27.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
+              "Title": "20241122110922_init.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122110922_init.cs",
+              "RelativeDocumentMoniker": "HW13\\Migrations\\20241122110922_init.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Migrations\\20241122110922_init.cs",
+              "RelativeToolTip": "HW13\\Migrations\\20241122110922_init.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:09:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "BarrowedBookConfig.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Configuration\\BarrowedBookConfig.cs",
               "RelativeDocumentMoniker": "HW13\\Configuration\\BarrowedBookConfig.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Configuration\\BarrowedBookConfig.cs",
               "RelativeToolTip": "HW13\\Configuration\\BarrowedBookConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T12:49:16.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\BookService.cs",
               "RelativeDocumentMoniker": "HW13\\Service\\BookService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\BookService.cs",
               "RelativeToolTip": "HW13\\Service\\BookService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAlwCMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:13:32.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "StatusEnum.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Enum\\StatusEnum.cs",
               "RelativeDocumentMoniker": "HW13\\Enum\\StatusEnum.cs",
@@ -168,116 +185,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IBookService.cs",
               "RelativeDocumentMoniker": "HW13\\Contract\\IBookService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IBookService.cs",
               "RelativeToolTip": "HW13\\Contract\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:57:14.964Z"
+              "WhenOpened": "2024-11-18T18:57:14.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Repository\\BookRepository.cs",
               "RelativeDocumentMoniker": "HW13\\Repository\\BookRepository.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Repository\\BookRepository.cs",
               "RelativeToolTip": "HW13\\Repository\\BookRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA7wDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T18:34:49.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "HW13\\Entities\\Book.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\Book.cs",
               "RelativeToolTip": "HW13\\Entities\\Book.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T18:23:24.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IBookRepository.cs",
               "RelativeDocumentMoniker": "HW13\\Contract\\IBookRepository.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IBookRepository.cs",
               "RelativeToolTip": "HW13\\Contract\\IBookRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T18:12:01.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "OnlineUser.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\OnlineUser.cs",
               "RelativeDocumentMoniker": "HW13\\Service\\OnlineUser.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\OnlineUser.cs",
               "RelativeToolTip": "HW13\\Service\\OnlineUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:52:58.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "HW13\\Service\\UserService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Service\\UserService.cs",
               "RelativeToolTip": "HW13\\Service\\UserService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAlwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwFUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:49:11.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IUserService.cs",
               "RelativeDocumentMoniker": "HW13\\Contract\\IUserService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IUserService.cs",
               "RelativeToolTip": "HW13\\Contract\\IUserService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:44:41.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "GenreEnum.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Enum\\GenreEnum.cs",
               "RelativeDocumentMoniker": "HW13\\Enum\\GenreEnum.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Enum\\GenreEnum.cs",
               "RelativeToolTip": "HW13\\Enum\\GenreEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:23:39.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BarrowedBook.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\BarrowedBook.cs",
               "RelativeDocumentMoniker": "HW13\\Entities\\BarrowedBook.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\BarrowedBook.cs",
               "RelativeToolTip": "HW13\\Entities\\BarrowedBook.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwBYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:20:29.352Z",
               "EditorCaption": ""
@@ -290,27 +308,27 @@
               "RelativeDocumentMoniker": "HW13\\Configuration\\UserConfig.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Configuration\\UserConfig.cs",
               "RelativeToolTip": "HW13\\Configuration\\UserConfig.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAACFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T13:06:47.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "HW13\\Repository\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Repository\\UserRepository.cs",
               "RelativeToolTip": "HW13\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA8wCkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA7wDwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T13:03:35.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Contract\\IUserRepository.cs",
               "RelativeDocumentMoniker": "HW13\\Contract\\IUserRepository.cs",
@@ -323,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "DbConfig.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Configuration\\DbConfig.cs",
               "RelativeDocumentMoniker": "HW13\\Configuration\\DbConfig.cs",
@@ -336,51 +354,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "HW13DbContext.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\DataBase\\HW13DbContext.cs",
               "RelativeDocumentMoniker": "HW13\\DataBase\\HW13DbContext.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\DataBase\\HW13DbContext.cs",
               "RelativeToolTip": "HW13\\DataBase\\HW13DbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T12:33:48.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\Result.cs",
               "RelativeDocumentMoniker": "HW13\\Entities\\Result.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\Result.cs",
               "RelativeToolTip": "HW13\\Entities\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T12:30:29.198Z"
+              "WhenOpened": "2024-11-18T12:30:29.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\User.cs",
               "RelativeDocumentMoniker": "HW13\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Entities\\User.cs",
               "RelativeToolTip": "HW13\\Entities\\User.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T12:26:30.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Program.cs",
               "RelativeDocumentMoniker": "HW13\\Program.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW13\\HW13\\Program.cs",
               "RelativeToolTip": "HW13\\Program.cs",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAtwKQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T12:05:36.523Z",
               "EditorCaption": ""

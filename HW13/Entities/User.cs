@@ -37,7 +37,7 @@ namespace HW13.Entities
         public User() { }
         public override string ToString()
         {
-            return $"Name: {Name} | Email: {Email} " +
+            return $"Id: {Id} | Name: {Name} | Email: {Email} " +
                 $"| Password: {Password} | Role: {Role} | Active: {IsUserActive().ToString()} " +
                 $"| Subscription Ends in: {EndDate - DateTime.Now}";
         }

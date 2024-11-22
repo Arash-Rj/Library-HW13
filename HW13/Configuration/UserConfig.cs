@@ -23,7 +23,7 @@ namespace HW13.Configuration
                 new User { Id = 1, Name = "Arash", Email = "rajabiarash36@gmail.com", Password = "12345", Role = RoleEnum.Librarian }
                 //new User { Id = 2, Name = "Ali", Email = "Ali@gmail.com", Password = "1234", Role = RoleEnum.Member , RegisterDate=DateTime.Now , EndDate=DateTime.Now.AddMonths(1) },
                 //new User { Id = 3, Name = "mahdi", Email = "mahdi@gmail.com", Password = "123", Role = RoleEnum.Member , RegisterDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1) },
-                //new User {Id = 4, Name = "ashkan", Email = "ashkan@gmail.com", Password = "12", Role = RoleEnum.Member, RegisterDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1) }
+                //new User { Id = 5, Name = "a", Email = "ashkan@gmail.com", Password = "12", Role = RoleEnum.Member, RegisterDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1) }
                 );
 
         }
